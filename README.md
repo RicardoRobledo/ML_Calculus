@@ -1,6 +1,6 @@
 # Calculus for Machine Learning Notebook
 
-This notebook is based on a comprehensive calculus resource tailored for machine learning practitioners, covering essential topics to understand and implement core ML algorithms.
+This notebook is based on Calculus for ML book available at [machinelearningmastery.com](https://machinelearningmastery.com/). It covers fundamental and advanced topics.
 
 ## Key Topics Covered
 
